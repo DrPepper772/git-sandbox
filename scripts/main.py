@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from src import ana, ahkit, juping
+from src import ana, ahkit, juping, nazim
 
 print("------------------")
 print("Project Manager")
@@ -13,3 +13,7 @@ print("------------------")
 
 print("QA/QC")
 juping.main()
+print ("------------------")
+
+print ("Main Developer")
+nazim.nazim()
