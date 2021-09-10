@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from src import ana, ahkit, juping, henry
+from src import ana, ahkit, juping, henry, nazim
 
 print("------------------")
 print("Project Manager")
@@ -17,3 +17,7 @@ print("------------------")
 
 print("Main Developer")
 henry.main()
+print("------------------")
+
+print("Developer")
+nazim.nazim()
